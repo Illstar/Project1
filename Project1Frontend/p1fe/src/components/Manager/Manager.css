@@ -1,0 +1,117 @@
+.manager {
+    width: stretch;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border-radius: 5px;
+    border: 2px;
+    padding: 10px;
+}
+
+.see-all-pending-reimbursements {
+    width: stretch;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border-radius: 5px;
+    border: 2px;
+    padding: 10px;
+}
+
+.see-all-reimbursements {
+    width: stretch;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border-radius: 5px;
+    border: 2px;
+    padding: 10px;
+}
+
+.resolve-a-reimbursement {
+    width: stretch;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border-radius: 5px;
+    border: 2px;
+    padding: 10px;
+}
+
+.see-all-users {
+    width: stretch;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border-radius: 5px;
+    border: 2px;
+    padding: 10px;
+}
+
+.delete-a-user {
+    width: stretch;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border-radius: 5px;
+    border: 2px;
+    padding: 10px;
+}
+
+.reimbursement-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 25px;
+    margin-right: 25px;
+    margin-left: 25px;
+    border: 1%;
+    border-color: black;
+    border-style: solid;
+}
+
+.text-container {
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+.button-container {
+
+    display: flex;
+    justify-content: center;
+    border-color: #02040F;
+    border-radius: 15px;
+    margin-top: 15px;
+
+}
+
+.nav-button {
+    width: 15%;
+    background: hsl(123, 55%, 53%);
+    font-size: large;
+    border-color: #02040F;
+    border-radius: 15px;
+    border-width: 5px;
+    margin-top: 15px;
+    padding: 10px;
+}
+
+.logout-button {
+    background: hsl(123, 55%, 53%);
+    width: 12%;
+    margin-left: 2px;
+    margin-right: auto;
+    border-color: #02040F;
+    border-radius: 25px;
+    font-size: 1.5rem;
+    font-weight: 400;
+    padding: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+
+.logout-button:hover {
+    cursor: pointer;
+    box-shadow: 0 0 50px 15px #cdd7dd;
+}

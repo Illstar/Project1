@@ -1,0 +1,10 @@
+.reimbursement-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border: 4px solid #000 !important;
+    padding: 15px;
+    background-color: rgb(69, 246, 69);
+}
